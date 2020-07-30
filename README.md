@@ -1,6 +1,6 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wxxsw&hide=CSS"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wxxsw&hide=CSS,shell"/>
+### Hi there 👋
 
 - 🇨🇳 I’m an iOS developer in Beijing
 - 🌱 I’m currently learning SwiftUI
