@@ -21,6 +21,9 @@
 - [GSCaptchaButton](https://github.com/wxxsw/GSCaptchaButton): 为普通按钮增加验证码倒计时功能，不影响按钮样式
 - [GSChange](https://github.com/wxxsw/GSChange): Automatically synchronize changes, such as likes, follow, etc.
 - [GSVerificationCode](https://github.com/wxxsw/GSVerificationCode): 验证码控件，支持设置输入长度、自定义外观等
+- [GSAlert](https://github.com/wxxsw/GSAlert): [deprecated] UIAlertController support iOS 7+ and written in swift.
+- [GSPhotos](https://github.com/wxxsw/GSPhotos): [deprecated] PhotosKit+ALAssetsLibrary, support iOS 7+ and written in swift.
+- [POP-SnapKit](https://github.com/wxxsw/POP-SnapKit): [deprecated] Use SnapKit with the Facebook Pop animation framework.
 
 ---
 
