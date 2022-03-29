@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🇨🇳 I’m an iOS developer in Beijing
+- 💻 Focusing on Swift & iOS
 - 🌟 Github is amazing, I hope to create more useful things here
 
 #### My SwiftUI Frameworks:
