@@ -28,5 +28,5 @@
 ---
 
 <a href="https://github.com/wxxsw">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=wxxsw&column=8&theme=onedark&no-frame=true&rank=-?"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=wxxsw&column=7&theme=onedark&no-frame=true&rank=-?&title=-Reviews,-Commits,-Issues"/>
 </a>
